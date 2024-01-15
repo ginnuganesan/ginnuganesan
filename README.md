@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and drawing 
 - 🌱 I’m currently learning DSA and React
 - 💞️ I’m looking to collaborate on DSA problems
-- 📫 How to reach me 
+- 📫 How to reach me |\/| ginnuganesh@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Life is fun with less red and more green
 
